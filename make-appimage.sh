@@ -8,6 +8,7 @@ export ARCH VERSION
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
+export ICON=https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/refs/heads/master/Papirus/64x64/apps/tint2.svg
 export DEPLOY_OPENGL=0
 export DEPLOY_VULKAN=0
 export ANYLINUX_LIB=1
