@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=tint2
+Comment=Lightweight taskbar for Openbox and other window managers
+Exec=tint2
+Terminal=false
+Type=Application
+Icon=tint2
+StartupWMClass=st-256color
+Categories=Utility;Panel
+StartupNotify=false
+
